@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f1acbf7-3b9d-4265-90f8-3c956d73f824" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pytest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Example1.py" afterDir="false" />
+    <list default="true" id="2f1acbf7-3b9d-4265-90f8-3c956d73f824" name="Default Changelist" comment="Initial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +68,29 @@
       <option name="presentableId" value="Default" />
       <updated>1624780424916</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1624781251223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624781251223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
   <component name="WindowStateProjectService">
     <state x="507" y="27" key="#Example1" timestamp="1624780529777">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="507" y="27" key="#Example1/0.0.1536.824@0.0.1536.824" timestamp="1624780529777" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1624802686514">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624802686514" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1624781231069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -100,9 +111,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624780615363" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624802694803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624802694803" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1624782272402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1624782272402" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624780556726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1624780556726" />
+    <state x="460" y="204" key="git4idea.merge.GitPullDialog" timestamp="1624782567574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="204" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1624782567574" />
   </component>
 </project>
